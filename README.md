@@ -1,6 +1,6 @@
-# sails-generate-new
+# sails-generate-new-gulp
 
-A generator for Sails.js.
+A generator for Sails.js. w/out grunt but with gulp :)
 
 
 ## Usage
@@ -8,7 +8,7 @@ A generator for Sails.js.
 #### On the command line
 
 ```sh
-sails generate sails-generate-new
+sails generate sails-generate-new-gulp
 ```
 
 #### In a node script
